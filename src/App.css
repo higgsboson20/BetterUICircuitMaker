@@ -1,0 +1,16 @@
+.appcontainer{
+    display: flex;
+    align-content: center;
+    background: black;
+    width: 500px;
+    height: 200px;
+    justify-content: center;
+    border-color: #ffffff;
+    border-width: 1.5px;
+    border-style: solid;
+    overflow-y: scroll;
+}
+
+body{
+    background: black;
+}

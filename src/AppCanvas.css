@@ -1,0 +1,12 @@
+.canvas{
+    background-repeat: repeat;
+    background-color: tan;
+    width: 2000px;
+    height: 1250px;
+    overflow: scroll;
+}
+
+.gridpoint{
+    margin: 5px;
+    width: 4px;
+}

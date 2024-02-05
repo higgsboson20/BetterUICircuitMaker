@@ -1,0 +1,23 @@
+.banner{
+    width: 200px;
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+    height: 150px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.title{
+    color: black;
+    font-size: 20px;
+}
+
+.body{
+    color: black;
+    font-size: 14px;
+}
+
+.appButton{
+    margin: auto;
+}
